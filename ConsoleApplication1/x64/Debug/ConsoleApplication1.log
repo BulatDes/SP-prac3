@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\307-01\Desktop\Ltcgbtr\ConsoleApplication1\ConsoleApplication1.cpp(19,1): warning C4005: x: изменение макроопределения
+C:\Users\307-01\Desktop\Ltcgbtr\ConsoleApplication1\ConsoleApplication1.cpp(15): message : см. предыдущее определение "x"
+C:\Users\307-01\Desktop\Ltcgbtr\ConsoleApplication1\ConsoleApplication1.cpp(20,1): warning C4005: y: изменение макроопределения
+C:\Users\307-01\Desktop\Ltcgbtr\ConsoleApplication1\ConsoleApplication1.cpp(14): message : см. предыдущее определение "y"
+C:\Users\307-01\Desktop\Ltcgbtr\ConsoleApplication1\ConsoleApplication1.cpp(22,1): warning C4005: z: изменение макроопределения
+C:\Users\307-01\Desktop\Ltcgbtr\ConsoleApplication1\ConsoleApplication1.cpp(13): message : см. предыдущее определение "z"
+  ConsoleApplication1.vcxproj -> C:\Users\307-01\Desktop\Ltcgbtr\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
